@@ -1,0 +1,5 @@
+#ifndef _RESOURCES_RC_
+#define _RESOURCES_RC_
+#include <Windows.h>
+IDI_ICON1               ICON                    "favicon.ico"
+#endif // _RESOURCES_RC_
